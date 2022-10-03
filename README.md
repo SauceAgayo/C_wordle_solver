@@ -1,6 +1,6 @@
 # C_wordle_solver
 An optimized solver made in C
-This solveur was made to solve the wordle game. You have a word to made guess and the solver has to find it. When the solver makes a guess you have to enter a number association. You have to enter 0 if the letter are not well placed, 1 if the letter is in the word but not well placed and 2 if the letters is well placed.
+This solveur was designed to in order to solve the wordle game. You have a word to made guess and the solver has to find it. When the solver makes a guess you have to enter a number association. You have to enter 0 if the letter are not well placed, 1 if the letter is in the word but not well placed and 2 if the letters is well placed.
 
 ## Using the WORDLE solver
 
