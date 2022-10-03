@@ -1,4 +1,4 @@
-chmod +x solveur
+-chmod +x solveur
 make clean
 make 
 clear
