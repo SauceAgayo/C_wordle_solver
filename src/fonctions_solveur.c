@@ -245,11 +245,20 @@ linked_list_str_t* actu(linked_list_str_t* mot_restants,char* proposition,char* 
 
 char* namefile(char* nb){
     char* result = malloc(sizeof(char)*30);
-    result[0]='d';
-    result[1]='i';
-    result[2]='c';
-    result[3]='o';
-    result[4]='\0';
+    result[0]='.';
+    result[1]='/';
+    result[2]='s';
+    result[3]='t';
+    result[4]='a';
+    result[5]='t';
+    result[6]='i';
+    result[7]='c';
+    result[8]='/';
+    result[9]='d';
+    result[10]='i';
+    result[11]='c';
+    result[12]='o';
+    result[13]='\0';
     strcat(result,nb);
     strcat(result,".txt");
     return result;
