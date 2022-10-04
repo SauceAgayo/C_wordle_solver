@@ -4,5 +4,5 @@ This solveur was designed to in order to solve the wordle game. You have a word 
 
 ## Using the WORDLE solver
 
-To launch the WORDLE solver, simply go to the project folder or the solveurC folder, then launch  `make clean`, `make`,`clear`,`.text_solveur` in a terminal. Then follow the instructions.
+To launch the WORDLE solver, simply go to the project folder or the solveurC folder, then launch  `make clean`, `make`,`clear`,`./text_solveur` in a terminal. Then follow the instructions.
 To choose how many letters you want to use it with, you must change the number found in the wsolf.txt file, save the change and rerun the command.
